@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ApertureSync</string>
+    <string name="title_activity_main">ApertureSync</string>
+    <string name="package_name">com.aperturesync.app</string>
+    <string name="custom_url_scheme">com.aperturesync.app</string>
+</resources>

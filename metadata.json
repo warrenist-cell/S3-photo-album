@@ -1,0 +1,6 @@
+{
+  "name": "Photo Album Organizer & S3 Backup",
+  "description": "An elegant photo album organizer that lets you configure S3 buckets to synchronize, manage, and back up your images securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
